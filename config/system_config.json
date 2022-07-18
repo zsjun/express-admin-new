@@ -1,4 +1,4 @@
 {
-  "application_port": 3000,
+  "application_port": 3099,
   "session_time_out_minute": 360
 }
