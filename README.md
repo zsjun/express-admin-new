@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # express-admin
 ```
 一个基于NodeJS Express Bootstrap 框架的后台管理系统，包括登录，角色，菜单权限等。
@@ -84,3 +85,6 @@ db/change.sql
 --
 ![image](public/images/menu_auth.png)
 
+=======
+# express-admin-new
+>>>>>>> c6270e11224d9135fe76b17086ca821208b68424
